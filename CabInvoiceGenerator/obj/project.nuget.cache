@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "cRQeiF18hu/Nxciq1hbf/p7k7wQIwA4dadnH2rdWIFxYUJcX1Qadfr7x1UX5dQ1Rt3KHrJbd/QSIcjpuj14qnA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\MOHSIN ZAHOOR PEER\\Desktop\\CabInvoiceGenerator\\CabInvoiceGenerator\\CabInvoiceGenerator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\MOHSIN ZAHOOR PEER\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+  ],
+  "logs": []
+}
